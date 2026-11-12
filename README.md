@@ -88,3 +88,7 @@ Through this assignment, I learned:
 ## Conclusion
 
 This repository presents the concepts and practical knowledge gained during the Technical Writing course. It serves as a reference for understanding documentation tools, version control, and collaborative project management.
+
+## Git Practice
+
+Learning Git commands and GitHub workflows.
